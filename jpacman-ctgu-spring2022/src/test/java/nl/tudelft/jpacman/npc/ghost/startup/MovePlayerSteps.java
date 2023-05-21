@@ -1,4 +1,4 @@
-package nl.tudelft.jpacman.e2e.framework.startup;
+package nl.tudelft.jpacman.npc.ghost.startup;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
